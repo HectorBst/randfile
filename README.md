@@ -1,6 +1,6 @@
 # randfile
 
-Simple Java random text file generator
+Simple Java random text file generator.
 
 ## Execution
 
